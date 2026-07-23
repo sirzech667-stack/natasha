@@ -1,0 +1,6 @@
+{
+  "name": "Natasha by Lunarica - Web-Based Novel Studio",
+  "description": "Minimalist, elegant web-based novel studio with multi-language support, rich chapter editor, story bible, codex, word tracker, and PDF/EPUB export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
